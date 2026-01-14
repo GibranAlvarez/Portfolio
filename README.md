@@ -18,7 +18,7 @@ With over 10 years in financial analysis, credit risk, and international tax con
 
 ### 🌍 Background Highlights
 - **Finance Experience:** TD Bank, Scotiabank, Deloitte, RYAN VAT Systems
-- **Education:** Data Science Certificate (UofT), Bachelor in Law/Economics (France)
+- **Education:** Data Science Certificate (University of Toronto), Bachelor in Law and Economics (University of Toulouse)
 - **Languages:** English, French, Spanish
 - **Specialties:** Financial statement analysis, cash flow modeling, risk assessment, data automation, and regulatory compliance
 
