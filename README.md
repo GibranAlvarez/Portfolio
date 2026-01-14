@@ -13,7 +13,7 @@ With over 10 years in financial analysis, credit risk, and international tax con
 
 ### 🔧 Tech & Tools Stack
 **Languages & Libraries:** Python (pandas, numpy, matplotlib, seaborn), SQL, VBA  
-**Analytics & Visualization:** Excel (Advanced), Power BI, Tableau
+**Analytics & Visualization:** Excel (Advanced), Power BI, Tableau 
 **Domain Expertise:** Financial Analysis, Credit Risk Modeling, Transfer Pricing, VAT Compliance
 
 ### 🌍 Background Highlights
